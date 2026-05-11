@@ -4,12 +4,16 @@ Simple desktop app to download YouTube videos with a simple UI.
 
 This project was started as a necessity for my video edits when I need to download videos from Youtube but kept having issues with the online tools. These tools are great, but rarely work every time you need them. Also, it's nice to have something local on your PC.  
 
-The core features of download are taken from the amazing yt-dlp project that you can access here: https://github.com/yt-dlp/yt-dlp. I am in no way affiliated with that project. Merely a grateful user that people invest their time in making this kind tool open to everyone. 
+The core features of download are taken from the amazing [yt-dlp](https://github.com/yt-dlp/yt-dlp) project.
+
+The UI was built with the [CustomTkinter](https://github.com/tomschimansky/customtkinter) framework.
+
+I am in no way affiliated with these projects. Merely a user grateful that people invest their time in making this kind tool open and accessible to everyone. 
 
 ## Features
 - Download YouTube videos in their highest quality possible
 - Progress bar + speed
-- Clean interface (made with the CustomTkinter framework)
+- A comfortable and straight to the point interface
 
 ## Screenshot
 ![MainWindow](youtube-downloader.png)
