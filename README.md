@@ -12,6 +12,7 @@ I am in no way affiliated with these projects. Merely a user grateful that peopl
 
 ## Features
 - Download YouTube videos in their highest quality possible
+    - The full list of websites supported can be accessed here: https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
 - Progress bar + speed
 - A comfortable and straight to the point interface
 
