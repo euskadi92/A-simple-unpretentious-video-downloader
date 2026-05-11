@@ -1,2 +1,15 @@
-# A simple unpretentious video downloader
-A simple UI interface downloading the best format possible from youtube and more video-sharing websites. Based on the yt-dlp library. 
+# YouTube Downloader (GUI)
+
+Simple desktop app to download YouTube videos with a modern UI.
+
+## Features
+- Download YouTube videos
+- Progress bar + speed
+- Custom download folder
+- Clean interface (CustomTkinter)
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python yt-downloader.py
