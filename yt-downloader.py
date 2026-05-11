@@ -19,7 +19,7 @@ class YouTubeDownloaderApp(ctk.CTk):
         super().__init__()
 
         self.title("YouTube Downloader")
-        icon_path = os.path.join(os.path.dirname(__file__), "yt-downloader.ico")
+        icon_path = os.path.join(os.path.dirname(__file__), "img/yt-downloader.ico")
         self.iconbitmap(icon_path)
         self.geometry("520x380")
         self.resizable(False, False)

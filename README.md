@@ -16,7 +16,7 @@ I am in no way affiliated with these projects. Merely a user grateful that peopl
 - A comfortable and straight to the point interface
 
 ## Screenshot
-![MainWindow](youtube-downloader.png)
+![MainWindow](img/youtube-downloader.png)
 
 ## Installation
 
